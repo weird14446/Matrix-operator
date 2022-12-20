@@ -1,0 +1,15 @@
+C:\Users\kiruk\OneDrive\문서\GitHub\Matrix-operator\bin\Debug\net7.0\Matrix-operator.exe
+C:\Users\kiruk\OneDrive\문서\GitHub\Matrix-operator\bin\Debug\net7.0\Matrix-operator.deps.json
+C:\Users\kiruk\OneDrive\문서\GitHub\Matrix-operator\bin\Debug\net7.0\Matrix-operator.runtimeconfig.json
+C:\Users\kiruk\OneDrive\문서\GitHub\Matrix-operator\bin\Debug\net7.0\Matrix-operator.dll
+C:\Users\kiruk\OneDrive\문서\GitHub\Matrix-operator\bin\Debug\net7.0\Matrix-operator.pdb
+C:\Users\kiruk\OneDrive\문서\GitHub\Matrix-operator\obj\Debug\net7.0\Matrix-operator.csproj.AssemblyReference.cache
+C:\Users\kiruk\OneDrive\문서\GitHub\Matrix-operator\obj\Debug\net7.0\Matrix-operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiruk\OneDrive\문서\GitHub\Matrix-operator\obj\Debug\net7.0\Matrix-operator.AssemblyInfoInputs.cache
+C:\Users\kiruk\OneDrive\문서\GitHub\Matrix-operator\obj\Debug\net7.0\Matrix-operator.AssemblyInfo.cs
+C:\Users\kiruk\OneDrive\문서\GitHub\Matrix-operator\obj\Debug\net7.0\Matrix-operator.csproj.CoreCompileInputs.cache
+C:\Users\kiruk\OneDrive\문서\GitHub\Matrix-operator\obj\Debug\net7.0\Matrix-operator.dll
+C:\Users\kiruk\OneDrive\문서\GitHub\Matrix-operator\obj\Debug\net7.0\refint\Matrix-operator.dll
+C:\Users\kiruk\OneDrive\문서\GitHub\Matrix-operator\obj\Debug\net7.0\Matrix-operator.pdb
+C:\Users\kiruk\OneDrive\문서\GitHub\Matrix-operator\obj\Debug\net7.0\Matrix-operator.genruntimeconfig.cache
+C:\Users\kiruk\OneDrive\문서\GitHub\Matrix-operator\obj\Debug\net7.0\ref\Matrix-operator.dll
